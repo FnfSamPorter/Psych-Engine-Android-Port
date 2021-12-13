@@ -28,28 +28,6 @@
 				0,
 				0
 			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "miLEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "miRIGHT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
 			"anim": "singDOWN",
 			"fps": 24,
 			"name": "DOWN",
@@ -76,45 +54,23 @@
 			"fps": 24,
 			"name": "IDLE",
 			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "miDOWN"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "miUP"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/bfChristmas",
+	"image": "characters/jollyFella",
 	"position": [
-		210,
-		430
+		60,
+		340
 	],
-	"healthicon": "bf-awesome",
-	"flip_x": true,
+	"healthicon": "boo",
+	"flip_x": false,
 	"healthbar_colors": [
-		46,
-		176,
-		206
+		40,
+		144,
+		86
 	],
 	"camera_position": [
-		200,
+		-260,
 		-200
 	],
 	"sing_duration": 4,
