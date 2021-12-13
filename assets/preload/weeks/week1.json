@@ -1,8 +1,7 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["Christmas", "fella", [32, 144, 0]],
+		["Spookpostor", "boo", [0, 0, 0]]	
 	],
 
 	"weekCharacters": [
@@ -12,8 +11,7 @@
 	],
 	"weekBackground": "stage",
 
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
+	"storyName": "(art by GallyCid)",
 	"weekName": "Week 1",
 	"startUnlocked": true,
 
